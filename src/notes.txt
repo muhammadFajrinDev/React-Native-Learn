@@ -1,0 +1,7 @@
+C:\Users\mwx866213\cd\emulator>emulator -avd Pixel_2_API_29
+
+"android-dev": "adb reverse tcp:8081 tcp:8081 && react-native run-android"
+
+C:\Users\mwx866213\AppData\Local\Android\Sdk\platform-tools
+
+ANDROID_ADB_SERVER_PORT
